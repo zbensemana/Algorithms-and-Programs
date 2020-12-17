@@ -1,0 +1,316 @@
+
+
+Trainer: Jax, Wins: 33, team:[
+Magmar, Moves:[Flame-Wheel (Fir), Fire-Punch (Fir), Flame-Burst (Fir)],
+Walrein, Moves:[Scald (Wat), Hydro-Pump (Wat), Bubble-Beam (Wat)],
+Starmie, Moves:[Water-Pulse (Wat), Surf (Wat), Weather-Ball (Wat)],
+Lanturn, Moves:[Weather-Ball (Wat), Brine (Wat), Bubble-Beam (Wat)],
+rotom, Moves:[Thunder-Punch (Ele), Zap-Cannon (Ele), Zap-Cannon (Ele)]]
+
+Trainer: Randall, Wins: 30, team:[
+Shiftry, Moves:[Energy-Ball (Gra), Petal-Blizzard (Gra), Leaf-Blade (Gra)],
+aGo, Moves:[Wild-Charge (Ele), Discharge (Ele), Thunder (Ele)],
+Bulbasaur, Moves:[Seed-Bomb (Gra), Energy-Ball (Gra)],
+Electrike, Moves:[Wild-Charge (Ele)],
+Combusken, Moves:[Flame-Burst (Fir), Flame-Charge (Fir)]]
+
+Trainer: Minnie, Wins: 54, team:[
+Budew, Moves:[Petal-Blizzard (Gra)],
+Poliwag, Moves:[Hydro-Cannon (Wat)],
+Blaziken, Moves:[Fire-Punch (Fir), Flame-Charge (Fir), Fire-Punch (Fir)],
+Celebi, Moves:[Leaf-Blade (Gra), Solar-Beam (Gra), Energy-Ball (Gra), Grass-Knot (Gra)],
+Suicune, Moves:[Bubble-Beam (Wat), Surf (Wat), Water-Pulse (Wat)]]
+
+Trainer: Brianna, Wins: 41, team:[
+Lapras, Moves:[Bubble-Beam (Wat), Scald (Wat), Weather-Ball (Wat)],
+Wooper, Moves:[Hydro-Pump (Wat)],
+Ivysaur, Moves:[Petal-Blizzard (Gra), Giga-Drain (Gra)],
+aloEg, Moves:[Frenzy-Plant (Gra), Petal-Blizzard (Gra), Leaf-Blade (Gra), Giga-Drain (Gra)],
+Totodile, Moves:[Aqua-Jet (Wat), Surf (Wat)]]
+
+Trainer: Fredric, Wins: 86, team:[
+Poliwrath, Moves:[Origin-Pulse (Wat), Hydro-Cannon (Wat), Scald (Wat)],
+Meganium, Moves:[Power-Whip (Gra), Frenzy-Plant (Gra), Solar-Beam (Gra)],
+Marill, Moves:[Origin-Pulse (Wat)],
+Staryu, Moves:[Scald (Wat), Water-Pulse (Wat)],
+Nuzleaf, Moves:[Grass-Knot (Gra), Petal-Blizzard (Gra)]]
+
+Trainer: Gideon, Wins: 9, team:[
+Starmie, Moves:[Water-Pulse (Wat), Surf (Wat), Weather-Ball (Wat)],
+Pelipper, Moves:[Hydro-Cannon (Wat), Scald (Wat), Water-Pulse (Wat)],
+Squirtle, Moves:[Aqua-Jet (Wat)],
+Cyndaquil, Moves:[Heat-Wave (Fir)],
+Corphish, Moves:[Brine (Wat), Scald (Wat)]]
+
+Trainer: Rikki, Wins: 60, team:[
+Raikou, Moves:[Thunder-Punch (Ele), Zap-Cannon (Ele), Thunder (Ele), Thunder (Ele)],
+Manectric, Moves:[Zap-Cannon (Ele), Thunder-Punch (Ele), Wild-Charge (Ele)],
+Numel, Moves:[Heat-Wave (Fir), Fire-Blast (Fir)],
+Cacnea, Moves:[Grass-Knot (Gra), Petal-Blizzard (Gra)],
+Infernape, Moves:[Flame-Burst (Fir), Fire-Blast (Fir), Flame-Charge (Fir)]]
+
+Trainer: Paulina, Wins: 54, team:[
+geodudeAlo, Moves:[Thunder-Punch (Ele), Thunder (Ele)],
+Corphish, Moves:[Brine (Wat), Scald (Wat)],
+Palkia, Moves:[Water-Pulse (Wat), Aqua-Jet (Wat), Brine (Wat), Origin-Pulse (Wat)],
+Pachirisu, Moves:[Thunder (Ele), Zap-Cannon (Ele)],
+Weepinbell, Moves:[Power-Whip (Gra), Power-Whip (Gra)]]
+
+Trainer: Campbell, Wins: 5, team:[
+Finneon, Moves:[Aqua-Tail (Wat)],
+Psyduck, Moves:[Bubble-Beam (Wat), Aqua-Tail (Wat)],
+alMaro, Moves:[Flame-Wheel (Fir), Flame-Burst (Fir)],
+Exeggutor, Moves:[Mega-Drain (Gra), Leaf-Blade (Gra), Leaf-Blade (Gra), Leaf-Blade (Gra)],
+Magnezone, Moves:[Wild-Charge (Ele), Thunder (Ele), Thunder-Punch (Ele), Discharge (Ele)]]
+
+Trainer: Karen, Wins: 10, team:[
+Poliwag, Moves:[Hydro-Cannon (Wat)],
+Krabby, Moves:[Weather-Ball (Wat), Water-Pulse (Wat)],
+Victreebel, Moves:[Power-Whip (Gra), Seed-Bomb (Gra), Mega-Drain (Gra)],
+Psyduck, Moves:[Bubble-Beam (Wat), Aqua-Tail (Wat)],
+Finneon, Moves:[Aqua-Tail (Wat)]]
+
+Trainer: Doyle, Wins: 45, team:[
+Snover, Moves:[Power-Whip (Gra), Frenzy-Plant (Gra)],
+Clamperl, Moves:[Scald (Wat), Aqua-Jet (Wat)],
+Ninetales, Moves:[Heat-Wave (Fir), Blast-Burn (Fir), Weather-Ball (Fir)],
+Magneton, Moves:[Discharge (Ele), Discharge (Ele), Thunderbolt (Ele)],
+Slowbro, Moves:[Origin-Pulse (Wat), Aqua-Jet (Wat), Brine (Wat)]]
+
+Trainer: Minnie, Wins: 58, team:[
+Camerupt, Moves:[Flamethrower (Fir), Fire-Blast (Fir), Fire-Blast (Fir)],
+Shinx, Moves:[Thunderbolt (Ele)],
+Pikachu, Moves:[Thunderbolt (Ele)],
+Ludicolo, Moves:[Surf (Wat), Origin-Pulse (Wat), Aqua-Tail (Wat)],
+Numel, Moves:[Heat-Wave (Fir), Fire-Blast (Fir)]]
+
+Trainer: Dayne, Wins: 29, team:[
+Houndour, Moves:[Flame-Burst (Fir), Heat-Wave (Fir)],
+Cradily, Moves:[Giga-Drain (Gra), Solar-Beam (Gra), Leaf-Blade (Gra)],
+Voltorb, Moves:[Wild-Charge (Ele), Thunderbolt (Ele)],
+Charmander, Moves:[Flamethrower (Fir)],
+Lapras, Moves:[Bubble-Beam (Wat), Scald (Wat), Weather-Ball (Wat)]]
+
+Trainer: Devyn, Wins: 36, team:[
+Lumineon, Moves:[Aqua-Jet (Wat), Hydro-Pump (Wat)],
+Magmortar, Moves:[Flamethrower (Fir), Blast-Burn (Fir), Weather-Ball (Fir), Flamethrower (Fir)],
+Electivire, Moves:[Discharge (Ele), Thunder-Punch (Ele), Thunder-Punch (Ele), Zap-Cannon (Ele)],
+Exeggcute, Moves:[Leaf-Blade (Gra), Power-Whip (Gra)],
+Voltorb, Moves:[Wild-Charge (Ele), Thunderbolt (Ele)]]
+
+Trainer: Keanu, Wins: 43, team:[
+Victreebel, Moves:[Power-Whip (Gra), Seed-Bomb (Gra), Mega-Drain (Gra)],
+Pikachu, Moves:[Thunderbolt (Ele)],
+Voltorb, Moves:[Wild-Charge (Ele), Thunderbolt (Ele)],
+Chinchou, Moves:[Aqua-Tail (Wat), Scald (Wat)],
+Surskit, Moves:[Origin-Pulse (Wat)]]
+
+Trainer: Leander, Wins: 76, team:[
+Remoraid, Moves:[Hydro-Cannon (Wat)],
+Gorebyss, Moves:[Hydro-Pump (Wat), Hydro-Cannon (Wat), Hydro-Pump (Wat)],
+Whiscash, Moves:[Weather-Ball (Wat), Origin-Pulse (Wat), Hydro-Pump (Wat)],
+Suicune, Moves:[Bubble-Beam (Wat), Surf (Wat), Water-Pulse (Wat)],
+Celebi, Moves:[Leaf-Blade (Gra), Solar-Beam (Gra), Energy-Ball (Gra), Grass-Knot (Gra)]]
+
+Trainer: Kellen, Wins: 80, team:[
+Poliwrath, Moves:[Origin-Pulse (Wat), Hydro-Cannon (Wat), Scald (Wat)],
+Lanturn, Moves:[Discharge (Ele), Zap-Cannon (Ele), Thunder-Punch (Ele)],
+Mudkip, Moves:[Origin-Pulse (Wat), Weather-Ball (Wat)],
+Limagma, Moves:[Heat-Wave (Fir)],
+Feraligatr, Moves:[Origin-Pulse (Wat), Aqua-Tail (Wat), Hydro-Cannon (Wat)]]
+
+Trainer: Laquan, Wins: 65, team:[
+Ivysaur, Moves:[Petal-Blizzard (Gra), Giga-Drain (Gra)],
+Tangrowth, Moves:[Power-Whip (Gra), Energy-Ball (Gra), Grass-Knot (Gra), Energy-Ball (Gra)],
+Heatran, Moves:[Overheat (Fir), Flame-Wheel (Fir), Fire-Blast (Fir), Fire-Blast (Fir)],
+Monferno, Moves:[Flame-Burst (Fir), Flame-Wheel (Fir)],
+Pachirisu, Moves:[Thunder (Ele), Zap-Cannon (Ele)]]
+
+Trainer: Marley, Wins: 61, team:[
+Kabutops, Moves:[Hydro-Pump (Wat), Surf (Wat), Brine (Wat)],
+Camerupt, Moves:[Flamethrower (Fir), Fire-Blast (Fir), Fire-Blast (Fir)],
+Ninetales, Moves:[Heat-Wave (Fir), Blast-Burn (Fir), Weather-Ball (Fir)],
+Plusle, Moves:[Wild-Charge (Ele), Thunder (Ele)],
+Slowpoke, Moves:[Hydro-Cannon (Wat), Aqua-Jet (Wat)]]
+
+Trainer: Staci, Wins: 70, team:[
+Tropius, Moves:[Frenzy-Plant (Gra), Petal-Blizzard (Gra)],
+Elekid, Moves:[Thunder-Punch (Ele), Discharge (Ele)],
+Shinx, Moves:[Thunderbolt (Ele)],
+Octillery, Moves:[Aqua-Jet (Wat), Brine (Wat), Weather-Ball (Wat)],
+Marill, Moves:[Origin-Pulse (Wat)]]
+
+Trainer: Newman, Wins: 19, team:[
+Shroomish, Moves:[Energy-Ball (Gra)],
+Shiftry, Moves:[Energy-Ball (Gra), Petal-Blizzard (Gra), Leaf-Blade (Gra)],
+Crawdaunt, Moves:[Weather-Ball (Wat), Bubble-Beam (Wat), Weather-Ball (Wat)],
+Goldeen, Moves:[Bubble-Beam (Wat), Surf (Wat)],
+geodudeAlo, Moves:[Thunder-Punch (Ele), Thunder (Ele)]]
+
+Trainer: Tianna, Wins: 26, team:[
+Budew, Moves:[Petal-Blizzard (Gra)],
+Ho, Moves:[Weather-Ball (Fir), Flame-Charge (Fir), Flame-Wheel (Fir), Weather-Ball (Fir)],
+Barboach, Moves:[Bubble-Beam (Wat)],
+Entei, Moves:[Blast-Burn (Fir), Weather-Ball (Fir), Flame-Wheel (Fir), Weather-Ball (Fir)],
+Finneon, Moves:[Aqua-Tail (Wat)]]
+
+Trainer: Jon, Wins: 49, team:[
+Magcargo, Moves:[Flamethrower (Fir), Heat-Wave (Fir)],
+Magmortar, Moves:[Flamethrower (Fir), Blast-Burn (Fir), Weather-Ball (Fir), Flamethrower (Fir)],
+Slowking, Moves:[Hydro-Pump (Wat), Origin-Pulse (Wat), Bubble-Beam (Wat)],
+Mareep, Moves:[Thunder-Punch (Ele)],
+Plusle, Moves:[Wild-Charge (Ele), Thunder (Ele)]]
+
+Trainer: Devyn, Wins: 24, team:[
+rotom, Moves:[Thunder-Punch (Ele), Zap-Cannon (Ele), Zap-Cannon (Ele)],
+Pichu, Moves:[Thunderbolt (Ele)],
+aloGrav, Moves:[Thunder-Punch (Ele), Thunderbolt (Ele)],
+Barboach, Moves:[Bubble-Beam (Wat)],
+aloRai, Moves:[Wild-Charge (Ele), Zap-Cannon (Ele), Zap-Cannon (Ele)]]
+
+Trainer: Marcelo, Wins: 54, team:[
+Tangela, Moves:[Petal-Blizzard (Gra), Power-Whip (Gra), Seed-Bomb (Gra)],
+Houndour, Moves:[Flame-Burst (Fir), Heat-Wave (Fir)],
+Phione, Moves:[Origin-Pulse (Wat), Water-Pulse (Wat), Bubble-Beam (Wat)],
+Wooper, Moves:[Hydro-Pump (Wat)],
+Marshtomp, Moves:[Aqua-Tail (Wat), Aqua-Tail (Wat)]]
+
+Trainer: Bette, Wins: 31, team:[
+Limagma, Moves:[Heat-Wave (Fir)],
+Qwilfish, Moves:[Hydro-Pump (Wat), Hydro-Cannon (Wat), Origin-Pulse (Wat)],
+Pikachu, Moves:[Thunderbolt (Ele)],
+Corphish, Moves:[Brine (Wat), Scald (Wat)],
+Clamperl, Moves:[Scald (Wat), Aqua-Jet (Wat)]]
+
+Trainer: Delmar, Wins: 16, team:[
+Octillery, Moves:[Aqua-Jet (Wat), Brine (Wat), Weather-Ball (Wat)],
+Sharpedo, Moves:[Brine (Wat), Hydro-Cannon (Wat), Hydro-Cannon (Wat)],
+Golduck, Moves:[Aqua-Jet (Wat), Water-Pulse (Wat), Brine (Wat)],
+Golduck, Moves:[Aqua-Jet (Wat), Water-Pulse (Wat), Brine (Wat)],
+aGo, Moves:[Wild-Charge (Ele), Discharge (Ele), Thunder (Ele)]]
+
+Trainer: Franklin, Wins: 78, team:[
+Exeggcute, Moves:[Leaf-Blade (Gra), Power-Whip (Gra)],
+Tentacool, Moves:[Weather-Ball (Wat), Hydro-Pump (Wat)],
+aloRai, Moves:[Wild-Charge (Ele), Zap-Cannon (Ele), Zap-Cannon (Ele)],
+Moltres, Moves:[Heat-Wave (Fir), Flame-Burst (Fir), Overheat (Fir), Flame-Wheel (Fir)],
+Qwilfish, Moves:[Hydro-Pump (Wat), Hydro-Cannon (Wat), Origin-Pulse (Wat)]]
+
+Trainer: Martha, Wins: 33, team:[
+Ludicolo, Moves:[Mega-Drain (Gra), Mega-Drain (Gra), Energy-Ball (Gra)],
+Bayleef, Moves:[Giga-Drain (Gra), Seed-Bomb (Gra)],
+Wailmer, Moves:[Aqua-Jet (Wat), Weather-Ball (Wat)],
+Slowking, Moves:[Hydro-Pump (Wat), Origin-Pulse (Wat), Bubble-Beam (Wat)],
+Ho, Moves:[Weather-Ball (Fir), Flame-Charge (Fir), Flame-Wheel (Fir), Weather-Ball (Fir)]]
+
+Trainer: Donald, Wins: 31, team:[
+Prinplup, Moves:[Aqua-Tail (Wat), Scald (Wat)],
+Shiftry, Moves:[Energy-Ball (Gra), Petal-Blizzard (Gra), Leaf-Blade (Gra)],
+Bulbasaur, Moves:[Seed-Bomb (Gra), Energy-Ball (Gra)],
+Staryu, Moves:[Scald (Wat), Water-Pulse (Wat)],
+Omastar, Moves:[Water-Pulse (Wat), Origin-Pulse (Wat), Hydro-Cannon (Wat)]]
+
+Trainer: Donald, Wins: 35, team:[
+Shinx, Moves:[Thunderbolt (Ele)],
+Cradily, Moves:[Giga-Drain (Gra), Solar-Beam (Gra), Leaf-Blade (Gra)],
+Kabuto, Moves:[Brine (Wat), Aqua-Tail (Wat)],
+Kabutops, Moves:[Hydro-Pump (Wat), Surf (Wat), Brine (Wat)],
+aloEg, Moves:[Frenzy-Plant (Gra), Petal-Blizzard (Gra), Leaf-Blade (Gra), Giga-Drain (Gra)]]
+
+Trainer: Aggie, Wins: 32, team:[
+Victreebel, Moves:[Power-Whip (Gra), Seed-Bomb (Gra), Mega-Drain (Gra)],
+Paras, Moves:[Solar-Beam (Gra), Giga-Drain (Gra)],
+Phione, Moves:[Origin-Pulse (Wat), Water-Pulse (Wat), Bubble-Beam (Wat)],
+rotom, Moves:[Thunder-Punch (Ele), Zap-Cannon (Ele), Zap-Cannon (Ele)],
+cherrim, Moves:[Giga-Drain (Gra), Mega-Drain (Gra), Grass-Knot (Gra)]]
+
+Trainer: Demarcus, Wins: 22, team:[
+Azumarill, Moves:[Brine (Wat), Aqua-Jet (Wat)],
+Electivire, Moves:[Discharge (Ele), Thunder-Punch (Ele), Thunder-Punch (Ele), Zap-Cannon (Ele)],
+Charmeleon, Moves:[Flame-Burst (Fir), Blast-Burn (Fir)],
+Kabuto, Moves:[Brine (Wat), Aqua-Tail (Wat)],
+Walrein, Moves:[Scald (Wat), Hydro-Pump (Wat), Bubble-Beam (Wat)]]
+
+Trainer: Mechelle, Wins: 37, team:[
+Azumarill, Moves:[Brine (Wat), Aqua-Jet (Wat)],
+Marshtomp, Moves:[Aqua-Tail (Wat), Aqua-Tail (Wat)],
+Kingler, Moves:[Origin-Pulse (Wat), Weather-Ball (Wat), Aqua-Tail (Wat)],
+cherrim, Moves:[Giga-Drain (Gra), Mega-Drain (Gra), Grass-Knot (Gra)],
+Slowbro, Moves:[Origin-Pulse (Wat), Aqua-Jet (Wat), Brine (Wat)]]
+
+Trainer: Columbus, Wins: 73, team:[
+Shinx, Moves:[Thunderbolt (Ele)],
+Qwilfish, Moves:[Hydro-Pump (Wat), Hydro-Cannon (Wat), Origin-Pulse (Wat)],
+Tentacruel, Moves:[Origin-Pulse (Wat), Hydro-Pump (Wat), Origin-Pulse (Wat)],
+Golduck, Moves:[Aqua-Jet (Wat), Water-Pulse (Wat), Brine (Wat)],
+Piplup, Moves:[Aqua-Jet (Wat), Weather-Ball (Wat)]]
+
+Trainer: Coleen, Wins: 51, team:[
+Abomasnow, Moves:[Solar-Beam (Gra), Power-Whip (Gra), Solar-Beam (Gra)],
+Tentacool, Moves:[Weather-Ball (Wat), Hydro-Pump (Wat)],
+Chikorita, Moves:[Frenzy-Plant (Gra)],
+Voltorb, Moves:[Wild-Charge (Ele), Thunderbolt (Ele)],
+Luxio, Moves:[Thunder-Punch (Ele), Thunder-Punch (Ele)]]
+
+Trainer: Berdie, Wins: 41, team:[
+Barboach, Moves:[Bubble-Beam (Wat)],
+Elekid, Moves:[Thunder-Punch (Ele), Discharge (Ele)],
+Arcanine, Moves:[Heat-Wave (Fir), Heat-Wave (Fir), Heat-Wave (Fir), Flame-Wheel (Fir)],
+Chikorita, Moves:[Frenzy-Plant (Gra)],
+Relicanth, Moves:[Bubble-Beam (Wat), Origin-Pulse (Wat), Weather-Ball (Wat)]]
+
+Trainer: Carol, Wins: 68, team:[
+Starmie, Moves:[Water-Pulse (Wat), Surf (Wat), Weather-Ball (Wat)],
+Dewgong, Moves:[Origin-Pulse (Wat), Weather-Ball (Wat)],
+Meganium, Moves:[Power-Whip (Gra), Frenzy-Plant (Gra), Solar-Beam (Gra)],
+cherrim, Moves:[Giga-Drain (Gra), Mega-Drain (Gra), Grass-Knot (Gra)],
+Wooper, Moves:[Hydro-Pump (Wat)]]
+
+Trainer: Gussie, Wins: 24, team:[
+Poliwhirl, Moves:[Hydro-Pump (Wat), Brine (Wat)],
+Weepinbell, Moves:[Power-Whip (Gra), Power-Whip (Gra)],
+Chimchar, Moves:[Weather-Ball (Fir)],
+Pelipper, Moves:[Hydro-Cannon (Wat), Scald (Wat), Water-Pulse (Wat)],
+Quilava, Moves:[Flame-Burst (Fir), Flame-Wheel (Fir)]]
+
+Trainer: Reanna, Wins: 57, team:[
+Blastoise, Moves:[Origin-Pulse (Wat), Hydro-Pump (Wat), Surf (Wat)],
+Flareon, Moves:[Fire-Punch (Fir), Heat-Wave (Fir), Flame-Wheel (Fir), Heat-Wave (Fir)],
+Bellsprout, Moves:[Energy-Ball (Gra), Frenzy-Plant (Gra)],
+Plusle, Moves:[Wild-Charge (Ele), Thunder (Ele)],
+Magby, Moves:[Flamethrower (Fir), Weather-Ball (Fir)]]
+
+Trainer: Joe, Wins: 71, team:[
+Voltorb, Moves:[Wild-Charge (Ele), Thunderbolt (Ele)],
+Pelipper, Moves:[Hydro-Cannon (Wat), Scald (Wat), Water-Pulse (Wat)],
+Slowking, Moves:[Hydro-Pump (Wat), Origin-Pulse (Wat), Bubble-Beam (Wat)],
+Shaymin, Moves:[Mega-Drain (Gra), Solar-Beam (Gra), Mega-Drain (Gra), Frenzy-Plant (Gra)],
+Heatran, Moves:[Overheat (Fir), Flame-Wheel (Fir), Fire-Blast (Fir), Fire-Blast (Fir)]]
+
+Trainer: Carol, Wins: 35, team:[
+Flareon, Moves:[Fire-Punch (Fir), Heat-Wave (Fir), Flame-Wheel (Fir), Heat-Wave (Fir)],
+Krabby, Moves:[Weather-Ball (Wat), Water-Pulse (Wat)],
+Kingler, Moves:[Origin-Pulse (Wat), Weather-Ball (Wat), Aqua-Tail (Wat)],
+Venusaur, Moves:[Frenzy-Plant (Gra), Seed-Bomb (Gra), Power-Whip (Gra)],
+Remoraid, Moves:[Hydro-Cannon (Wat)]]
+
+Trainer: Darin, Wins: 54, team:[
+Cacnea, Moves:[Grass-Knot (Gra), Petal-Blizzard (Gra)],
+Walrein, Moves:[Scald (Wat), Hydro-Pump (Wat), Bubble-Beam (Wat)],
+Chinchou, Moves:[Aqua-Tail (Wat), Scald (Wat)],
+Floatzel, Moves:[Brine (Wat), Water-Pulse (Wat), Origin-Pulse (Wat)],
+Electivire, Moves:[Discharge (Ele), Thunder-Punch (Ele), Thunder-Punch (Ele), Zap-Cannon (Ele)]]
+
+Trainer: Rubie, Wins: 56, team:[
+Luvdisc, Moves:[Water-Pulse (Wat)],
+Tropius, Moves:[Frenzy-Plant (Gra), Petal-Blizzard (Gra)],
+Ludicolo, Moves:[Surf (Wat), Origin-Pulse (Wat), Aqua-Tail (Wat)],
+Raikou, Moves:[Thunder-Punch (Ele), Zap-Cannon (Ele), Thunder (Ele), Thunder (Ele)],
+Feebas, Moves:[Aqua-Tail (Wat)]]
+
+Trainer: Alejandro, Wins: 18, team:[
+Wartortle, Moves:[Hydro-Cannon (Wat), Aqua-Jet (Wat)],
+Magmortar, Moves:[Flamethrower (Fir), Blast-Burn (Fir), Weather-Ball (Fir), Flamethrower (Fir)],
+Seedot, Moves:[Grass-Knot (Gra)],
+Bulbasaur, Moves:[Seed-Bomb (Gra), Energy-Ball (Gra)],
+Torchic, Moves:[Blast-Burn (Fir), Flame-Burst (Fir)]]
